@@ -1,1 +1,1 @@
-# preact-simple-boilerplate
+# preact-htm-simple-boilerplate
